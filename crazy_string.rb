@@ -1,5 +1,6 @@
 
 
 def crazy_strings(a,b)
-  puts "apple".reverse.upcase
+  a = a.reverse.upcase
+  b = b.
 end

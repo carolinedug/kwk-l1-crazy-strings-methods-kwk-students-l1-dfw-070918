@@ -1,5 +1,5 @@
 
 
 def crazy_strings(a,b)
-  puts "apple".
+  puts "apple".reverse.upcase
 end
